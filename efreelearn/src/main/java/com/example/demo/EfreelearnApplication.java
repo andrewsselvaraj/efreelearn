@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class EfreelearnApplication {
 
 	public static void main(String[] args) {
-		System.out.println("okok");
+		System.out.println("ok...ok");
 		SpringApplication.run(EfreelearnApplication.class, args);
 	}
 
